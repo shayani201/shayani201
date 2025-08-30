@@ -11,8 +11,8 @@
 
 <div style="display: flex; align-items: center; gap: 10px;" align="center">
 <!--<h3 align="left">Connect with me:</h3>-->
-<a href="https://www.credly.com/badges/7b75cc57-39f9-42a8-9555-6addb86bc244/public_url"><img src="img/github-foundations.png" width="250px" height="250px" /></a>
-<a href="https://www.linkedin.com/posts/shayani2003_postman-apis-softwaredevelopment-activity-7264993397545869313-6bck?utm_source=social_share_sheet&utm_medium=member_desktop_web"><img src="img/Postman White badge.png" width="250px" height="250px" /></a> &nbsp;
+<a href="https://www.credly.com/badges/7b75cc57-39f9-42a8-9555-6addb86bc244/public_url"><img src="photo1/github-foundations.png" width="250px" height="250px" /></a>
+<a href="https://www.linkedin.com/posts/shayani2003_postman-apis-softwaredevelopment-activity-7264993397545869313-6bck?utm_source=social_share_sheet&utm_medium=member_desktop_web"><img src="photo1/Postman White badge.png" width="250px" height="250px" /></a> &nbsp;
 <a href="https://www.credly.com/badges/9e16502a-2381-4c7d-ade7-cf524fb1d6e2/public_url"><img src="https://github.com/user-attachments/assets/99042298-4cca-44ae-90a0-efa1a28d50d8" width="250px" height="250px" /></a>
 </div>
 </br>
